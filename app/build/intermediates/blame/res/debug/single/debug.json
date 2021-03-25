@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans_italic.ttf.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\font\\googlesans_italic.ttf"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_idea.png.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\drawable\\idea.png"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans_bolditalic.ttf.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\font\\googlesans_bolditalic.ttf"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_health.png.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\drawable\\health.png"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food.png.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\drawable\\food.png"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trashcan.png.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\drawable\\trashcan.png"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sport.png.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\drawable\\sport.png"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_saran.png.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\drawable\\saran.png"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans_medium.ttf.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\font\\googlesans_medium.ttf"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_work.png.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\drawable\\work.png"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans_regular.ttf.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\font\\googlesans_regular.ttf"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans_bold.ttf.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\font\\googlesans_bold.ttf"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings.png.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "D:\\Projek\\ShefirasDashboard\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans_mediumitalic.ttf.flat",
+        "source": "D:\\Projek\\ShefirasDashboard\\app\\src\\main\\res\\font\\googlesans_mediumitalic.ttf"
+    }
+]
